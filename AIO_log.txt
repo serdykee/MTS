@@ -1,0 +1,51 @@
+=========================================================================
+=======================   START LOGGING TWEAKS...  ======================
+======================= AIO v.2.8.6  -  2020.04.04 ======================
+================ MAZ_CMU-150_74.00.324A  Flavor cmu150_ADR ===============
+======================= CMU_SW_VER = 74.00.324A-ADR ======================
+=======================  COMPATIBILITY_GROUP  = 6 =======================
+
+=======================   MYDIR = /tmp/mnt/sdb1    ======================
+==================      DATE = 11/30/25 03:48:40        =================
+===         Copytest to sd card successful, mount point is OK         ===
+ 
+=======        Detected compatible version 74.00.324A-ADR          =======
+ 
+======***********    BEGIN PRE-INSTALL OPERATIONS ...    **********======
+================== Remounted /tmp/mnt/resources =========================
+================== Backup of sm.conf.org already there! =================
+=====================  Watchdog Already Disabled! =======================
+================== Backup of opera.ini already there! ===================
+============== Userjs & File Xmlhttprequest Already Enabled =============
+======================= data_persist 3% used ===========================
+======================== rootfs 80% used ================================
+====================== resources 62% used ===============================
+=========************ END PRE-INSTALL OPERATIONS ***************=========
+ 
+=======******** INSTALL REMOVE TOUCHSCREEN RESTRICTION ... *******=======
+===             Touchscreen Speed Restriction Disabled                ===
+====****** END INSTALLATION OF REMOVE TOUCHSCREEN RESTRICTION  ******====
+ 
+========***********    INSTALL NO-MORE-DISCLAIMER ... ***********========
+===       FW 74.00.324A-ADR detected, copy matching systemApp.js       ===
+===               Added marker 'systemApp.js.disclaimer'              ===
+=== Removed Disclaimer 74.00.324A-ADR (audio order change not installed) ===
+=====*********** END INSTALLATION OF NO-MORE-DISCLAIMER ***********======
+ 
+===******* INSTALL REMOVE SAFETY WARNING FROM REVERSE CAMERA ... *****===
+===               Reverse Camera Safety Warning Removed               ===
+==*** END INSTALLATION OF REMOVE SAFETY WARNING FROM REVERSE CAMERA ***==
+ 
+====****** INSTALL SEMI-TRANSPARENT PARKING SENSOR GRAPHICS ... *****====
+===        Copied /jci/nativegui/images/HorizontalSensors/*.png       ===
+===         Copied /jci/nativegui/images/VerticalSensors/*.png        ===
+===            Copied /jci/nativegui/images/MiniView/*.png            ===
+===*** END INSTALLATION OF SEMITRANSPARENT PARKING SENSOR GRAPHICS ***===
+ 
+============******** INSTALL SHORTER DELAY MOD ... *********=============
+===                  Modified Delay in List2Ctrl.js                   ===
+========********* END INSTALLATION OF SHORTER DELAY MOD ********=========
+ 
+======================== rootfs 80% used ================================
+====================== resources 62% used ===============================
+======================= END OF TWEAKS INSTALLATION ======================
